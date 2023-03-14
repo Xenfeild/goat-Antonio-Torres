@@ -1,0 +1,34 @@
+
+header {
+    padding-top: 3%;
+    padding-left: 5%;
+    padding-right: 5%;
+    background-color: #5f43fb;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-bottom: 50px;
+}
+
+.logo {
+    font-size: 1.7rem;
+    text-transform: uppercase;
+}
+
+.nav_barr {
+    color: white;
+
+
+}
+
+.nav_barr ul {
+    list-style: none;    
+    display: flex;
+
+}
+
+.nav_barr li {
+
+    align-items: center;
+    padding-right: 15px;
+}

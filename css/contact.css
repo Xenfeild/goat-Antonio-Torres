@@ -1,0 +1,95 @@
+@import url(header.css);
+@import url(footer.css);
+@import url(global.css);
+
+
+label {
+    font-weight: bold;
+}
+.contact_h2 {
+    text-align: center;
+    padding-top: 50px;
+    font-size: 1.7rem;
+}
+
+.formulaire{
+    justify-content: center;
+    padding-top: 5%;
+    
+    
+}
+
+.form_input1{
+    display: flex;
+    justify-content: center;
+}
+.form_input1 input{
+    width: 200px;
+}
+
+#adress{
+    width: 420px;
+}
+
+.form_input2{
+    display: flex;
+    justify-content: center;
+}
+.form_input2 input{
+    width: 200px;
+}
+
+
+.form_input3 {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.form_input3 div {
+    display: block;
+
+}
+
+
+.adress_div input{
+    width: 500px;
+}
+
+
+
+.form_input4{
+    display: flex;
+    text-align: center;
+    justify-content: center;
+}
+.form_input4 input{
+   display: block;
+}
+
+.stack_div{
+    display: flex;
+    flex-direction: column;
+}
+.stack_div label{
+   margin-bottom: 25px;
+}
+
+.input_div{
+    padding-left: 35%;
+}
+
+#submit{
+    background-color: #5f43fb;
+    color: #ccc;
+}
+
+input, textarea {
+    display: block;
+    margin-top: 10px;
+    margin-bottom: 20px;
+    /* width: 90%; */
+    border-radius: 6px;
+    border: 1px solid #ccc;
+    padding: 8px;
+}

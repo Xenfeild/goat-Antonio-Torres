@@ -1,0 +1,14 @@
+footer {
+    text-align: center;
+    background-color: #5f43fb;
+    color: white;
+    padding-top: 3%;
+    padding-left: 5%;
+    padding-right: 5%;
+    padding-bottom: 3%;
+}
+
+footer h3 {
+    font-size: 1.5rem;
+    margin-bottom: 5px;
+}
